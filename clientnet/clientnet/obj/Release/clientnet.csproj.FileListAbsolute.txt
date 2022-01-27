@@ -1,0 +1,10 @@
+D:\work\game\tool\example\game_C-_clientnet\game_C-_clientnet-master\clientnet\clientnet\clientnet\bin\Release\clientnet.exe.config
+D:\work\game\tool\example\game_C-_clientnet\game_C-_clientnet-master\clientnet\clientnet\clientnet\bin\Release\clientnet.exe
+D:\work\game\tool\example\game_C-_clientnet\game_C-_clientnet-master\clientnet\clientnet\clientnet\bin\Release\clientnet.pdb
+D:\work\game\tool\example\game_C-_clientnet\game_C-_clientnet-master\clientnet\clientnet\clientnet\bin\Release\Google.ProtocolBuffers.dll
+D:\work\game\tool\example\game_C-_clientnet\game_C-_clientnet-master\clientnet\clientnet\clientnet\bin\Release\Google.ProtocolBuffers.Serialization.dll
+D:\work\game\tool\example\game_C-_clientnet\game_C-_clientnet-master\clientnet\clientnet\clientnet\obj\Release\clientnet.csproj.AssemblyReference.cache
+D:\work\game\tool\example\game_C-_clientnet\game_C-_clientnet-master\clientnet\clientnet\clientnet\obj\Release\clientnet.csproj.CoreCompileInputs.cache
+D:\work\game\tool\example\game_C-_clientnet\game_C-_clientnet-master\clientnet\clientnet\clientnet\obj\Release\clientnet.csproj.CopyComplete
+D:\work\game\tool\example\game_C-_clientnet\game_C-_clientnet-master\clientnet\clientnet\clientnet\obj\Release\clientnet.exe
+D:\work\game\tool\example\game_C-_clientnet\game_C-_clientnet-master\clientnet\clientnet\clientnet\obj\Release\clientnet.pdb

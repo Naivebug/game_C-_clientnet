@@ -1,0 +1,12 @@
+D:\work\game\tool\example\game_C-_clientnet\game_C-_clientnet-master\clientnet\clientnet\clientnet\bin\Debug\clientnet.exe.config
+D:\work\game\tool\example\game_C-_clientnet\game_C-_clientnet-master\clientnet\clientnet\clientnet\bin\Debug\clientnet.exe
+D:\work\game\tool\example\game_C-_clientnet\game_C-_clientnet-master\clientnet\clientnet\clientnet\bin\Debug\clientnet.pdb
+D:\work\game\tool\example\game_C-_clientnet\game_C-_clientnet-master\clientnet\clientnet\clientnet\obj\Debug\clientnet.csproj.CoreCompileInputs.cache
+D:\work\game\tool\example\game_C-_clientnet\game_C-_clientnet-master\clientnet\clientnet\clientnet\obj\Debug\clientnet.csproj.CopyComplete
+D:\work\game\tool\example\game_C-_clientnet\game_C-_clientnet-master\clientnet\clientnet\clientnet\obj\Debug\clientnet.exe
+D:\work\game\tool\example\game_C-_clientnet\game_C-_clientnet-master\clientnet\clientnet\clientnet\obj\Debug\clientnet.pdb
+D:\work\game\tool\example\game_C-_clientnet\game_C-_clientnet-master\clientnet\clientnet\clientnet\bin\Debug\Google.Protobuf.dll
+D:\work\game\tool\example\game_C-_clientnet\game_C-_clientnet-master\clientnet\clientnet\clientnet\bin\Debug\System.Buffers.dll
+D:\work\game\tool\example\game_C-_clientnet\game_C-_clientnet-master\clientnet\clientnet\clientnet\bin\Debug\System.Memory.dll
+D:\work\game\tool\example\game_C-_clientnet\game_C-_clientnet-master\clientnet\clientnet\clientnet\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\work\game\tool\example\game_C-_clientnet\game_C-_clientnet-master\clientnet\clientnet\clientnet\obj\Debug\clientnet.csproj.AssemblyReference.cache

@@ -26,4 +26,9 @@ netgm:gmÖ¸Áî²âÊÔ,¼àÌýÁËÊäÈë¼ü,ÊäÈë0ÖØÁ¬·þÎñÆ÷,ÊäÈë1¾Í·¢ËÍµ½·þÎñÆ÷²âÊÔÁ·´úÂë¾ßÌå×
 Èç¹ûÄãÏëÏÈ¸ãprotobufÄÇ¾ÍÏÈ°Ù¶È¹È¸ç½â¾öprotobuf±àÐ´ºÍÉú³ÉC#ÎÄ¼þ,·þÎñÆ÷¶ÔÓ¦½âÂë¼´¿É..
 
 
+-------------------------------
+
+clientnetnew ÎªÐÂ°æ±¾, Ò²Ã»É¶¸Ä¶¯, Ö»ÊÇÔö¼ÓÁËÐÂµÄProtobuf°æ±¾, È»ºó¾ÍÊÇ¶ÔprotobufÐ­Òé½øÐÐ×Ô¶¯±àÒëID, ºÍµ¼³ö,ºÍÓ³Éä, ÕâÑù×öµÄÓÅµãÊÇ²»ÐèÒª½øÐÐ³ÌÐòÊÖÖ§Ð´ID, µ«ÊÇÒ²ÓÐÈ´µãÊÇµ±ÓÐ¿ÉÄÜÎó²Ù×÷Ê±(ÈçÉ¾³ýÁË»áÖØÐÂÉú³É), Ð­ÒéºÅÓÐ¿ÉÄÜ»áÂÒ.ÄÇ¾ÍÐèÒª¿Í»§¶ËÔÚÍ¬²½.
+
+
 
